@@ -58,7 +58,7 @@ app.get('/', (req, res) => {
 // GET /users/:id
 
 app.get('/users/:id', (req, res) => {
-	const userId = request.params.id;
+	const userId = req.params.id;
 	res.status(200).json({
 		path: '/users/:id',
 		userId: userId
