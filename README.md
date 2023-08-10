@@ -16,8 +16,17 @@ Where possible, the project will include a `Dockerfile` to build and run the ser
 ## TODO
 
 - nim
-  - prologue (https://planety.github.io/prologue/)
   - jester (https://github.com/dom96/jester)
+  - prologue (https://planety.github.io/prologue/)
+  - nexus (https://jfilby.github.io/nexus/)
+  - nimwc (https://nimwc.org/)
+  - happyx (https://github.com/HapticX/happyx)
+  - httpbeast (https://github.com/dom96/httpbeast)
+- go
+  - net-http (https://pkg.go.dev/net/http)
+  - gin (https://gin-gonic.com/)
+  - echo (https://echo.labstack.com/)
+  - gorilla-mux (https://pkg.go.dev/github.com/gorilla/mux)
 - python
   - flask (https://flask.palletsprojects.com/)
   - fastapi (https://fastapi.tiangolo.com/)
@@ -25,11 +34,6 @@ Where possible, the project will include a `Dockerfile` to build and run the ser
 - lua
   - lapis (https://leafo.net/lapis/)
   - lua-http (https://daurnimator.github.io/lua-http/0.4/#http.server)
-- go
-  - net-http (https://pkg.go.dev/net/http)
-  - gin (https://gin-gonic.com/)
-  - echo (https://echo.labstack.com/)
-  - gorilla-mux (https://pkg.go.dev/github.com/gorilla/mux)
 - rust
   - actix (https://actix.rs/)
   - rocket (https://rocket.rs/)
