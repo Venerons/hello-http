@@ -1,0 +1,12 @@
+{
+  "name": "Nim Alpine",
+  "image": "nimlang/nim:2.0.0-alpine-regular",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "EditorConfig.EditorConfig",
+        "nimsaem.nimvscode"
+      ]
+    }
+  }
+}

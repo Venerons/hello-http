@@ -1,11 +1,11 @@
 {
-  "name": "Alpine",
-  "image": "nimlang/nim:2.0.0-alpine-regular",
+  "name": "Node.js",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
   "customizations": {
     "vscode": {
       "extensions": [
         "EditorConfig.EditorConfig",
-        "nimsaem.nimvscode"
+        "esbenp.prettier-vscode"
       ]
     }
   }
