@@ -15,12 +15,15 @@ Where possible, the project will include a `Dockerfile` to build and run the ser
 
 ## TODO
 
+- deno
+  - Deno.serve (https://deno.land/api@v1.36.4?s=Deno.serve)
+  - oak (https://oakserver.github.io/oak/)
 - nim
-  - jester (https://github.com/dom96/jester)
   - prologue (https://planety.github.io/prologue/)
+  - jester (https://github.com/dom96/jester)
+  - happyx (https://github.com/HapticX/happyx)
   - nexus (https://jfilby.github.io/nexus/)
   - nimwc (https://nimwc.org/)
-  - happyx (https://github.com/HapticX/happyx)
   - httpbeast (https://github.com/dom96/httpbeast)
 - go
   - net-http (https://pkg.go.dev/net/http)
