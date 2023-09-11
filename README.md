@@ -22,6 +22,7 @@ Where possible, the project will include a `Dockerfile` to build and run the ser
   - Deno.serve (https://deno.land/api@v1.36.4?s=Deno.serve)
   - oak (https://oakserver.github.io/oak/)
   - abc (https://deno.land/x/abc)
+  - fresh (https://fresh.deno.dev/)
   - deno-express (https://github.com/NMathar/deno-express)
 - nim
   - prologue (https://planety.github.io/prologue/)
