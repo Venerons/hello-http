@@ -16,6 +16,7 @@ Where possible, the project will include a `Dockerfile` to build and run the ser
 ## TODO
 
 - nodejs
+  - Fastify (https://fastify.dev/)
   - koa
   - hapi
 - deno
@@ -24,6 +25,8 @@ Where possible, the project will include a `Dockerfile` to build and run the ser
   - abc (https://deno.land/x/abc)
   - fresh (https://fresh.deno.dev/)
   - deno-express (https://github.com/NMathar/deno-express)
+- bun
+  - Elysia (https://elysiajs.com/)
 - nim
   - prologue (https://planety.github.io/prologue/)
   - jester (https://github.com/dom96/jester)
